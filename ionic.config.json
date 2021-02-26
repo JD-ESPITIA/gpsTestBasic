@@ -1,0 +1,7 @@
+{
+  "name": "gpsNativo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
